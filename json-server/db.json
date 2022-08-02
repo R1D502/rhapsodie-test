@@ -18,98 +18,99 @@
       "id": 0,
       "name": "label_0",
       "funds": 364631,
-      "league_id": 0
+      "leagueId": 0
     },
     {
       "id": 1,
       "name": "label_1",
       "funds": 377021,
-      "league_id": 1
+      "leagueId": 1
     },
     {
       "id": 2,
       "name": "label_2",
       "funds": 321585,
-      "league_id": 2
+      "leagueId": 2
     }
   ],
   "signature": [
     {
       "id": 0,
-      "label_id": 0,
-      "artist_id": 9
+      "labelId": 0,
+      "artistId": 9
     },
     {
       "id": 1,
-      "label_id": 0,
-      "artist_id": 6
+      "labelId": 0,
+      "artistId": 6
     },
     {
       "id": 2,
-      "label_id": 0,
-      "artist_id": 10
+      "labelId": 0,
+      "artistId": 10
     },
     {
       "id": 3,
-      "label_id": 0,
-      "artist_id": 12
+      "labelId": 0,
+      "artistId": 12
     },
     {
       "id": 4,
-      "label_id": 0,
-      "artist_id": 14
+      "labelId": 0,
+      "artistId": 14
     },
     {
       "id": 5,
-      "label_id": 1,
-      "artist_id": 5
+      "labelId": 1,
+      "artistId": 5
     },
     {
       "id": 6,
-      "label_id": 1,
-      "artist_id": 14
+      "labelId": 1,
+      "artistId": 14
     },
     {
       "id": 7,
-      "label_id": 1,
-      "artist_id": 7
+      "labelId": 1,
+      "artistId": 7
     },
     {
       "id": 8,
-      "label_id": 1,
-      "artist_id": 10
+      "labelId": 1,
+      "artistId": 10
     },
     {
       "id": 9,
-      "label_id": 1,
-      "artist_id": 8
+      "labelId": 1,
+      "artistId": 8
     },
     {
       "id": 10,
-      "label_id": 2,
-      "artist_id": 1
+      "labelId": 2,
+      "artistId": 1
     },
     {
       "id": 11,
-      "label_id": 2,
-      "artist_id": 8
+      "labelId": 2,
+      "artistId": 8
     },
     {
       "id": 12,
-      "label_id": 2,
-      "artist_id": 6
+      "labelId": 2,
+      "artistId": 6
     },
     {
       "id": 13,
-      "label_id": 2,
-      "artist_id": 5
+      "labelId": 2,
+      "artistId": 5
     },
     {
       "id": 14,
-      "label_id": 2,
-      "artist_id": 10
+      "labelId": 2,
+      "artistId": 10
     }
-  ], "artist": [
+  ],
+  "artist": [
     {
       "id": 0,
       "name": "Art de rue",
@@ -185,6305 +186,6307 @@
       "name": "Zkr",
       "image": "https://i.scdn.co/image/ab6761610000e5ebbeccdc5c901c04a4ad4b989b"
     }
-  ], "artist_metrics": [
+  ],
+  "artist_metrics": [
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-05-30",
       "revenue": 85,
       "salary": 831
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-05-31",
       "revenue": 653,
       "salary": 919
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-01",
       "revenue": 54,
       "salary": 986
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-02",
       "revenue": 238,
       "salary": 111
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-03",
       "revenue": 986,
       "salary": 52
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-04",
       "revenue": 13,
       "salary": 403
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-05",
       "revenue": 532,
       "salary": 1
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-06",
       "revenue": 931,
       "salary": 359
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-07",
       "revenue": 547,
       "salary": 190
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-08",
       "revenue": 851,
       "salary": 158
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-09",
       "revenue": 686,
       "salary": 576
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-10",
       "revenue": 775,
       "salary": 479
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-11",
       "revenue": 310,
       "salary": 895
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-12",
       "revenue": 935,
       "salary": 467
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-13",
       "revenue": 233,
       "salary": 953
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-14",
       "revenue": 967,
       "salary": 940
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-15",
       "revenue": 304,
       "salary": 287
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-16",
       "revenue": 187,
       "salary": 490
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-17",
       "revenue": 283,
       "salary": 817
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-18",
       "revenue": 296,
       "salary": 388
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-19",
       "revenue": 429,
       "salary": 563
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-20",
       "revenue": 997,
       "salary": 878
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-21",
       "revenue": 891,
       "salary": 593
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-22",
       "revenue": 59,
       "salary": 98
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-23",
       "revenue": 463,
       "salary": 950
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-24",
       "revenue": 254,
       "salary": 278
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-25",
       "revenue": 310,
       "salary": 57
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-26",
       "revenue": 660,
       "salary": 209
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-27",
       "revenue": 660,
       "salary": 765
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-28",
       "revenue": 436,
       "salary": 60
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-29",
       "revenue": 638,
       "salary": 505
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-06-30",
       "revenue": 11,
       "salary": 193
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-01",
       "revenue": 880,
       "salary": 664
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-02",
       "revenue": 925,
       "salary": 725
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-03",
       "revenue": 165,
       "salary": 920
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-04",
       "revenue": 371,
       "salary": 391
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-05",
       "revenue": 672,
       "salary": 735
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-06",
       "revenue": 231,
       "salary": 966
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-07",
       "revenue": 126,
       "salary": 841
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-08",
       "revenue": 461,
       "salary": 391
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-09",
       "revenue": 724,
       "salary": 517
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-10",
       "revenue": 449,
       "salary": 973
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-11",
       "revenue": 667,
       "salary": 613
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-12",
       "revenue": 83,
       "salary": 529
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-13",
       "revenue": 141,
       "salary": 1
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-14",
       "revenue": 191,
       "salary": 686
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-15",
       "revenue": 668,
       "salary": 3
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-16",
       "revenue": 89,
       "salary": 477
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-17",
       "revenue": 845,
       "salary": 183
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-18",
       "revenue": 812,
       "salary": 412
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-19",
       "revenue": 272,
       "salary": 336
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-20",
       "revenue": 20,
       "salary": 245
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-21",
       "revenue": 733,
       "salary": 247
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-22",
       "revenue": 627,
       "salary": 720
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-23",
       "revenue": 166,
       "salary": 971
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-24",
       "revenue": 525,
       "salary": 461
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-25",
       "revenue": 100,
       "salary": 57
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-26",
       "revenue": 810,
       "salary": 653
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-27",
       "revenue": 232,
       "salary": 222
     },
     {
-      "artist_id": 0,
+      "artistId": 0,
       "date": "2022-07-28",
       "revenue": 739,
       "salary": 879
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-05-30",
       "revenue": 839,
       "salary": 597
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-05-31",
       "revenue": 954,
       "salary": 434
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-01",
       "revenue": 463,
       "salary": 459
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-02",
       "revenue": 828,
       "salary": 94
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-03",
       "revenue": 232,
       "salary": 910
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-04",
       "revenue": 742,
       "salary": 791
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-05",
       "revenue": 209,
       "salary": 365
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-06",
       "revenue": 413,
       "salary": 708
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-07",
       "revenue": 267,
       "salary": 473
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-08",
       "revenue": 988,
       "salary": 13
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-09",
       "revenue": 760,
       "salary": 81
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-10",
       "revenue": 364,
       "salary": 773
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-11",
       "revenue": 815,
       "salary": 750
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-12",
       "revenue": 57,
       "salary": 528
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-13",
       "revenue": 776,
       "salary": 871
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-14",
       "revenue": 222,
       "salary": 824
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-15",
       "revenue": 575,
       "salary": 453
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-16",
       "revenue": 128,
       "salary": 323
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-17",
       "revenue": 29,
       "salary": 486
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-18",
       "revenue": 297,
       "salary": 666
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-19",
       "revenue": 59,
       "salary": 349
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-20",
       "revenue": 59,
       "salary": 725
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-21",
       "revenue": 557,
       "salary": 420
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-22",
       "revenue": 329,
       "salary": 222
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-23",
       "revenue": 860,
       "salary": 739
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-24",
       "revenue": 605,
       "salary": 890
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-25",
       "revenue": 250,
       "salary": 943
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-26",
       "revenue": 143,
       "salary": 209
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-27",
       "revenue": 934,
       "salary": 60
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-28",
       "revenue": 415,
       "salary": 806
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-29",
       "revenue": 31,
       "salary": 376
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-06-30",
       "revenue": 217,
       "salary": 625
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-01",
       "revenue": 152,
       "salary": 479
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-02",
       "revenue": 268,
       "salary": 924
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-03",
       "revenue": 859,
       "salary": 334
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-04",
       "revenue": 73,
       "salary": 605
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-05",
       "revenue": 377,
       "salary": 347
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-06",
       "revenue": 772,
       "salary": 651
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-07",
       "revenue": 465,
       "salary": 504
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-08",
       "revenue": 44,
       "salary": 597
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-09",
       "revenue": 305,
       "salary": 441
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-10",
       "revenue": 916,
       "salary": 624
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-11",
       "revenue": 916,
       "salary": 36
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-12",
       "revenue": 765,
       "salary": 921
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-13",
       "revenue": 519,
       "salary": 908
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-14",
       "revenue": 576,
       "salary": 260
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-15",
       "revenue": 405,
       "salary": 943
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-16",
       "revenue": 880,
       "salary": 262
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-17",
       "revenue": 394,
       "salary": 768
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-18",
       "revenue": 677,
       "salary": 96
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-19",
       "revenue": 183,
       "salary": 211
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-20",
       "revenue": 859,
       "salary": 762
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-21",
       "revenue": 291,
       "salary": 169
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-22",
       "revenue": 404,
       "salary": 560
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-23",
       "revenue": 72,
       "salary": 520
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-24",
       "revenue": 108,
       "salary": 715
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-25",
       "revenue": 446,
       "salary": 195
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-26",
       "revenue": 254,
       "salary": 507
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-27",
       "revenue": 657,
       "salary": 707
     },
     {
-      "artist_id": 1,
+      "artistId": 1,
       "date": "2022-07-28",
       "revenue": 837,
       "salary": 902
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-05-30",
       "revenue": 890,
       "salary": 645
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-05-31",
       "revenue": 756,
       "salary": 46
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-01",
       "revenue": 830,
       "salary": 567
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-02",
       "revenue": 664,
       "salary": 934
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-03",
       "revenue": 887,
       "salary": 943
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-04",
       "revenue": 567,
       "salary": 416
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-05",
       "revenue": 2,
       "salary": 11
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-06",
       "revenue": 276,
       "salary": 669
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-07",
       "revenue": 396,
       "salary": 909
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-08",
       "revenue": 539,
       "salary": 58
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-09",
       "revenue": 798,
       "salary": 81
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-10",
       "revenue": 658,
       "salary": 277
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-11",
       "revenue": 261,
       "salary": 260
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-12",
       "revenue": 200,
       "salary": 748
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-13",
       "revenue": 137,
       "salary": 256
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-14",
       "revenue": 506,
       "salary": 753
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-15",
       "revenue": 726,
       "salary": 189
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-16",
       "revenue": 133,
       "salary": 201
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-17",
       "revenue": 806,
       "salary": 291
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-18",
       "revenue": 663,
       "salary": 378
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-19",
       "revenue": 477,
       "salary": 696
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-20",
       "revenue": 109,
       "salary": 182
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-21",
       "revenue": 121,
       "salary": 911
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-22",
       "revenue": 895,
       "salary": 741
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-23",
       "revenue": 456,
       "salary": 479
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-24",
       "revenue": 46,
       "salary": 76
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-25",
       "revenue": 558,
       "salary": 146
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-26",
       "revenue": 648,
       "salary": 234
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-27",
       "revenue": 199,
       "salary": 882
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-28",
       "revenue": 399,
       "salary": 37
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-29",
       "revenue": 809,
       "salary": 28
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-06-30",
       "revenue": 985,
       "salary": 294
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-01",
       "revenue": 245,
       "salary": 594
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-02",
       "revenue": 906,
       "salary": 462
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-03",
       "revenue": 243,
       "salary": 662
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-04",
       "revenue": 305,
       "salary": 626
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-05",
       "revenue": 342,
       "salary": 128
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-06",
       "revenue": 27,
       "salary": 108
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-07",
       "revenue": 37,
       "salary": 682
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-08",
       "revenue": 732,
       "salary": 511
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-09",
       "revenue": 586,
       "salary": 994
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-10",
       "revenue": 9,
       "salary": 965
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-11",
       "revenue": 708,
       "salary": 932
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-12",
       "revenue": 606,
       "salary": 362
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-13",
       "revenue": 884,
       "salary": 300
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-14",
       "revenue": 151,
       "salary": 271
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-15",
       "revenue": 763,
       "salary": 454
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-16",
       "revenue": 530,
       "salary": 217
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-17",
       "revenue": 410,
       "salary": 860
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-18",
       "revenue": 275,
       "salary": 649
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-19",
       "revenue": 728,
       "salary": 818
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-20",
       "revenue": 840,
       "salary": 214
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-21",
       "revenue": 393,
       "salary": 410
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-22",
       "revenue": 565,
       "salary": 693
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-23",
       "revenue": 600,
       "salary": 554
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-24",
       "revenue": 568,
       "salary": 869
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-25",
       "revenue": 888,
       "salary": 928
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-26",
       "revenue": 22,
       "salary": 68
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-27",
       "revenue": 164,
       "salary": 251
     },
     {
-      "artist_id": 2,
+      "artistId": 2,
       "date": "2022-07-28",
       "revenue": 647,
       "salary": 0
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-05-30",
       "revenue": 198,
       "salary": 17
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-05-31",
       "revenue": 904,
       "salary": 809
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-01",
       "revenue": 639,
       "salary": 622
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-02",
       "revenue": 572,
       "salary": 680
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-03",
       "revenue": 358,
       "salary": 24
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-04",
       "revenue": 903,
       "salary": 820
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-05",
       "revenue": 870,
       "salary": 766
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-06",
       "revenue": 469,
       "salary": 636
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-07",
       "revenue": 982,
       "salary": 846
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-08",
       "revenue": 168,
       "salary": 642
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-09",
       "revenue": 530,
       "salary": 379
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-10",
       "revenue": 626,
       "salary": 937
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-11",
       "revenue": 170,
       "salary": 541
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-12",
       "revenue": 961,
       "salary": 267
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-13",
       "revenue": 382,
       "salary": 498
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-14",
       "revenue": 299,
       "salary": 555
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-15",
       "revenue": 927,
       "salary": 30
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-16",
       "revenue": 473,
       "salary": 178
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-17",
       "revenue": 319,
       "salary": 603
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-18",
       "revenue": 352,
       "salary": 971
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-19",
       "revenue": 294,
       "salary": 112
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-20",
       "revenue": 413,
       "salary": 352
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-21",
       "revenue": 797,
       "salary": 98
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-22",
       "revenue": 899,
       "salary": 697
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-23",
       "revenue": 826,
       "salary": 552
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-24",
       "revenue": 931,
       "salary": 0
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-25",
       "revenue": 674,
       "salary": 145
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-26",
       "revenue": 27,
       "salary": 478
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-27",
       "revenue": 662,
       "salary": 48
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-28",
       "revenue": 840,
       "salary": 980
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-29",
       "revenue": 223,
       "salary": 980
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-06-30",
       "revenue": 510,
       "salary": 765
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-01",
       "revenue": 567,
       "salary": 476
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-02",
       "revenue": 507,
       "salary": 867
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-03",
       "revenue": 618,
       "salary": 906
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-04",
       "revenue": 117,
       "salary": 807
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-05",
       "revenue": 929,
       "salary": 843
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-06",
       "revenue": 211,
       "salary": 297
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-07",
       "revenue": 718,
       "salary": 458
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-08",
       "revenue": 31,
       "salary": 578
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-09",
       "revenue": 862,
       "salary": 611
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-10",
       "revenue": 289,
       "salary": 818
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-11",
       "revenue": 826,
       "salary": 393
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-12",
       "revenue": 620,
       "salary": 961
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-13",
       "revenue": 656,
       "salary": 588
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-14",
       "revenue": 217,
       "salary": 416
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-15",
       "revenue": 299,
       "salary": 778
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-16",
       "revenue": 626,
       "salary": 835
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-17",
       "revenue": 588,
       "salary": 463
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-18",
       "revenue": 638,
       "salary": 842
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-19",
       "revenue": 60,
       "salary": 974
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-20",
       "revenue": 543,
       "salary": 120
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-21",
       "revenue": 229,
       "salary": 434
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-22",
       "revenue": 566,
       "salary": 220
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-23",
       "revenue": 882,
       "salary": 622
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-24",
       "revenue": 195,
       "salary": 255
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-25",
       "revenue": 401,
       "salary": 932
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-26",
       "revenue": 642,
       "salary": 612
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-27",
       "revenue": 864,
       "salary": 670
     },
     {
-      "artist_id": 3,
+      "artistId": 3,
       "date": "2022-07-28",
       "revenue": 992,
       "salary": 127
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-05-30",
       "revenue": 850,
       "salary": 374
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-05-31",
       "revenue": 159,
       "salary": 115
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-01",
       "revenue": 125,
       "salary": 427
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-02",
       "revenue": 152,
       "salary": 239
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-03",
       "revenue": 747,
       "salary": 622
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-04",
       "revenue": 154,
       "salary": 769
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-05",
       "revenue": 225,
       "salary": 308
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-06",
       "revenue": 443,
       "salary": 672
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-07",
       "revenue": 120,
       "salary": 328
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-08",
       "revenue": 444,
       "salary": 387
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-09",
       "revenue": 216,
       "salary": 418
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-10",
       "revenue": 92,
       "salary": 45
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-11",
       "revenue": 415,
       "salary": 150
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-12",
       "revenue": 622,
       "salary": 715
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-13",
       "revenue": 199,
       "salary": 159
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-14",
       "revenue": 5,
       "salary": 979
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-15",
       "revenue": 835,
       "salary": 932
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-16",
       "revenue": 17,
       "salary": 25
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-17",
       "revenue": 572,
       "salary": 521
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-18",
       "revenue": 814,
       "salary": 587
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-19",
       "revenue": 603,
       "salary": 894
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-20",
       "revenue": 669,
       "salary": 241
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-21",
       "revenue": 174,
       "salary": 12
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-22",
       "revenue": 662,
       "salary": 415
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-23",
       "revenue": 317,
       "salary": 893
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-24",
       "revenue": 230,
       "salary": 7
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-25",
       "revenue": 169,
       "salary": 360
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-26",
       "revenue": 17,
       "salary": 687
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-27",
       "revenue": 826,
       "salary": 444
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-28",
       "revenue": 784,
       "salary": 285
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-29",
       "revenue": 440,
       "salary": 635
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-06-30",
       "revenue": 933,
       "salary": 566
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-01",
       "revenue": 514,
       "salary": 654
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-02",
       "revenue": 563,
       "salary": 535
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-03",
       "revenue": 230,
       "salary": 29
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-04",
       "revenue": 676,
       "salary": 161
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-05",
       "revenue": 794,
       "salary": 230
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-06",
       "revenue": 785,
       "salary": 94
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-07",
       "revenue": 281,
       "salary": 845
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-08",
       "revenue": 831,
       "salary": 130
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-09",
       "revenue": 436,
       "salary": 750
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-10",
       "revenue": 438,
       "salary": 85
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-11",
       "revenue": 830,
       "salary": 208
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-12",
       "revenue": 324,
       "salary": 512
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-13",
       "revenue": 219,
       "salary": 247
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-14",
       "revenue": 462,
       "salary": 753
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-15",
       "revenue": 695,
       "salary": 188
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-16",
       "revenue": 141,
       "salary": 393
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-17",
       "revenue": 319,
       "salary": 704
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-18",
       "revenue": 803,
       "salary": 51
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-19",
       "revenue": 50,
       "salary": 347
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-20",
       "revenue": 155,
       "salary": 936
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-21",
       "revenue": 163,
       "salary": 929
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-22",
       "revenue": 44,
       "salary": 315
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-23",
       "revenue": 118,
       "salary": 872
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-24",
       "revenue": 307,
       "salary": 554
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-25",
       "revenue": 664,
       "salary": 665
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-26",
       "revenue": 908,
       "salary": 922
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-27",
       "revenue": 175,
       "salary": 710
     },
     {
-      "artist_id": 4,
+      "artistId": 4,
       "date": "2022-07-28",
       "revenue": 389,
       "salary": 735
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-05-30",
       "revenue": 581,
       "salary": 932
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-05-31",
       "revenue": 674,
       "salary": 510
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-01",
       "revenue": 15,
       "salary": 280
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-02",
       "revenue": 277,
       "salary": 304
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-03",
       "revenue": 86,
       "salary": 556
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-04",
       "revenue": 940,
       "salary": 816
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-05",
       "revenue": 732,
       "salary": 129
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-06",
       "revenue": 988,
       "salary": 26
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-07",
       "revenue": 165,
       "salary": 828
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-08",
       "revenue": 564,
       "salary": 986
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-09",
       "revenue": 507,
       "salary": 576
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-10",
       "revenue": 877,
       "salary": 545
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-11",
       "revenue": 774,
       "salary": 656
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-12",
       "revenue": 968,
       "salary": 700
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-13",
       "revenue": 913,
       "salary": 442
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-14",
       "revenue": 134,
       "salary": 880
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-15",
       "revenue": 567,
       "salary": 419
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-16",
       "revenue": 235,
       "salary": 623
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-17",
       "revenue": 71,
       "salary": 20
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-18",
       "revenue": 754,
       "salary": 574
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-19",
       "revenue": 945,
       "salary": 773
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-20",
       "revenue": 763,
       "salary": 289
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-21",
       "revenue": 232,
       "salary": 131
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-22",
       "revenue": 697,
       "salary": 875
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-23",
       "revenue": 68,
       "salary": 481
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-24",
       "revenue": 574,
       "salary": 202
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-25",
       "revenue": 525,
       "salary": 553
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-26",
       "revenue": 9,
       "salary": 976
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-27",
       "revenue": 574,
       "salary": 441
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-28",
       "revenue": 212,
       "salary": 420
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-29",
       "revenue": 635,
       "salary": 974
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-06-30",
       "revenue": 493,
       "salary": 866
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-01",
       "revenue": 623,
       "salary": 501
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-02",
       "revenue": 671,
       "salary": 183
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-03",
       "revenue": 153,
       "salary": 287
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-04",
       "revenue": 39,
       "salary": 747
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-05",
       "revenue": 727,
       "salary": 174
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-06",
       "revenue": 830,
       "salary": 843
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-07",
       "revenue": 737,
       "salary": 44
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-08",
       "revenue": 240,
       "salary": 846
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-09",
       "revenue": 702,
       "salary": 399
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-10",
       "revenue": 396,
       "salary": 940
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-11",
       "revenue": 149,
       "salary": 318
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-12",
       "revenue": 905,
       "salary": 211
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-13",
       "revenue": 67,
       "salary": 212
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-14",
       "revenue": 799,
       "salary": 798
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-15",
       "revenue": 153,
       "salary": 735
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-16",
       "revenue": 73,
       "salary": 67
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-17",
       "revenue": 704,
       "salary": 724
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-18",
       "revenue": 492,
       "salary": 945
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-19",
       "revenue": 380,
       "salary": 911
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-20",
       "revenue": 475,
       "salary": 59
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-21",
       "revenue": 793,
       "salary": 469
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-22",
       "revenue": 370,
       "salary": 487
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-23",
       "revenue": 812,
       "salary": 95
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-24",
       "revenue": 469,
       "salary": 831
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-25",
       "revenue": 547,
       "salary": 351
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-26",
       "revenue": 211,
       "salary": 915
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-27",
       "revenue": 889,
       "salary": 92
     },
     {
-      "artist_id": 5,
+      "artistId": 5,
       "date": "2022-07-28",
       "revenue": 380,
       "salary": 246
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-05-30",
       "revenue": 431,
       "salary": 938
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-05-31",
       "revenue": 374,
       "salary": 622
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-01",
       "revenue": 928,
       "salary": 728
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-02",
       "revenue": 971,
       "salary": 999
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-03",
       "revenue": 695,
       "salary": 661
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-04",
       "revenue": 711,
       "salary": 55
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-05",
       "revenue": 742,
       "salary": 129
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-06",
       "revenue": 524,
       "salary": 571
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-07",
       "revenue": 946,
       "salary": 925
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-08",
       "revenue": 312,
       "salary": 65
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-09",
       "revenue": 260,
       "salary": 382
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-10",
       "revenue": 673,
       "salary": 653
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-11",
       "revenue": 954,
       "salary": 13
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-12",
       "revenue": 828,
       "salary": 456
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-13",
       "revenue": 730,
       "salary": 514
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-14",
       "revenue": 432,
       "salary": 906
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-15",
       "revenue": 560,
       "salary": 420
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-16",
       "revenue": 719,
       "salary": 569
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-17",
       "revenue": 593,
       "salary": 220
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-18",
       "revenue": 889,
       "salary": 178
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-19",
       "revenue": 734,
       "salary": 358
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-20",
       "revenue": 739,
       "salary": 204
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-21",
       "revenue": 402,
       "salary": 442
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-22",
       "revenue": 637,
       "salary": 117
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-23",
       "revenue": 980,
       "salary": 416
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-24",
       "revenue": 160,
       "salary": 922
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-25",
       "revenue": 22,
       "salary": 587
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-26",
       "revenue": 753,
       "salary": 95
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-27",
       "revenue": 506,
       "salary": 923
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-28",
       "revenue": 70,
       "salary": 438
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-29",
       "revenue": 80,
       "salary": 198
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-06-30",
       "revenue": 229,
       "salary": 647
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-01",
       "revenue": 448,
       "salary": 88
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-02",
       "revenue": 222,
       "salary": 182
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-03",
       "revenue": 483,
       "salary": 177
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-04",
       "revenue": 263,
       "salary": 123
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-05",
       "revenue": 940,
       "salary": 973
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-06",
       "revenue": 416,
       "salary": 976
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-07",
       "revenue": 238,
       "salary": 463
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-08",
       "revenue": 965,
       "salary": 1
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-09",
       "revenue": 72,
       "salary": 262
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-10",
       "revenue": 829,
       "salary": 933
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-11",
       "revenue": 448,
       "salary": 683
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-12",
       "revenue": 463,
       "salary": 441
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-13",
       "revenue": 106,
       "salary": 239
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-14",
       "revenue": 30,
       "salary": 999
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-15",
       "revenue": 8,
       "salary": 970
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-16",
       "revenue": 227,
       "salary": 942
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-17",
       "revenue": 208,
       "salary": 809
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-18",
       "revenue": 21,
       "salary": 311
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-19",
       "revenue": 234,
       "salary": 348
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-20",
       "revenue": 405,
       "salary": 810
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-21",
       "revenue": 488,
       "salary": 589
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-22",
       "revenue": 962,
       "salary": 941
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-23",
       "revenue": 293,
       "salary": 529
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-24",
       "revenue": 835,
       "salary": 877
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-25",
       "revenue": 49,
       "salary": 938
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-26",
       "revenue": 944,
       "salary": 149
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-27",
       "revenue": 801,
       "salary": 900
     },
     {
-      "artist_id": 6,
+      "artistId": 6,
       "date": "2022-07-28",
       "revenue": 491,
       "salary": 838
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-05-30",
       "revenue": 77,
       "salary": 825
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-05-31",
       "revenue": 205,
       "salary": 112
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-01",
       "revenue": 33,
       "salary": 661
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-02",
       "revenue": 758,
       "salary": 21
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-03",
       "revenue": 375,
       "salary": 507
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-04",
       "revenue": 641,
       "salary": 747
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-05",
       "revenue": 292,
       "salary": 258
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-06",
       "revenue": 611,
       "salary": 443
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-07",
       "revenue": 878,
       "salary": 683
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-08",
       "revenue": 211,
       "salary": 615
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-09",
       "revenue": 99,
       "salary": 856
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-10",
       "revenue": 222,
       "salary": 76
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-11",
       "revenue": 231,
       "salary": 488
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-12",
       "revenue": 384,
       "salary": 558
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-13",
       "revenue": 489,
       "salary": 251
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-14",
       "revenue": 579,
       "salary": 404
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-15",
       "revenue": 183,
       "salary": 587
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-16",
       "revenue": 823,
       "salary": 796
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-17",
       "revenue": 658,
       "salary": 260
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-18",
       "revenue": 771,
       "salary": 855
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-19",
       "revenue": 840,
       "salary": 83
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-20",
       "revenue": 420,
       "salary": 281
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-21",
       "revenue": 684,
       "salary": 675
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-22",
       "revenue": 741,
       "salary": 538
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-23",
       "revenue": 481,
       "salary": 506
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-24",
       "revenue": 259,
       "salary": 663
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-25",
       "revenue": 681,
       "salary": 796
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-26",
       "revenue": 273,
       "salary": 253
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-27",
       "revenue": 499,
       "salary": 644
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-28",
       "revenue": 501,
       "salary": 342
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-29",
       "revenue": 710,
       "salary": 973
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-06-30",
       "revenue": 300,
       "salary": 535
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-01",
       "revenue": 277,
       "salary": 755
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-02",
       "revenue": 98,
       "salary": 371
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-03",
       "revenue": 990,
       "salary": 956
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-04",
       "revenue": 411,
       "salary": 149
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-05",
       "revenue": 983,
       "salary": 941
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-06",
       "revenue": 384,
       "salary": 166
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-07",
       "revenue": 784,
       "salary": 0
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-08",
       "revenue": 336,
       "salary": 142
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-09",
       "revenue": 323,
       "salary": 130
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-10",
       "revenue": 986,
       "salary": 144
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-11",
       "revenue": 859,
       "salary": 546
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-12",
       "revenue": 654,
       "salary": 780
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-13",
       "revenue": 165,
       "salary": 230
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-14",
       "revenue": 899,
       "salary": 367
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-15",
       "revenue": 36,
       "salary": 959
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-16",
       "revenue": 351,
       "salary": 832
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-17",
       "revenue": 140,
       "salary": 694
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-18",
       "revenue": 520,
       "salary": 627
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-19",
       "revenue": 817,
       "salary": 866
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-20",
       "revenue": 977,
       "salary": 851
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-21",
       "revenue": 927,
       "salary": 975
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-22",
       "revenue": 301,
       "salary": 973
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-23",
       "revenue": 447,
       "salary": 83
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-24",
       "revenue": 133,
       "salary": 150
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-25",
       "revenue": 987,
       "salary": 856
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-26",
       "revenue": 419,
       "salary": 22
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-27",
       "revenue": 655,
       "salary": 221
     },
     {
-      "artist_id": 7,
+      "artistId": 7,
       "date": "2022-07-28",
       "revenue": 260,
       "salary": 511
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-05-30",
       "revenue": 733,
       "salary": 853
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-05-31",
       "revenue": 739,
       "salary": 437
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-01",
       "revenue": 304,
       "salary": 240
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-02",
       "revenue": 580,
       "salary": 625
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-03",
       "revenue": 500,
       "salary": 10
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-04",
       "revenue": 147,
       "salary": 672
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-05",
       "revenue": 340,
       "salary": 493
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-06",
       "revenue": 336,
       "salary": 656
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-07",
       "revenue": 58,
       "salary": 437
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-08",
       "revenue": 995,
       "salary": 586
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-09",
       "revenue": 725,
       "salary": 453
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-10",
       "revenue": 876,
       "salary": 142
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-11",
       "revenue": 325,
       "salary": 812
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-12",
       "revenue": 608,
       "salary": 901
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-13",
       "revenue": 723,
       "salary": 287
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-14",
       "revenue": 95,
       "salary": 485
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-15",
       "revenue": 267,
       "salary": 545
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-16",
       "revenue": 134,
       "salary": 299
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-17",
       "revenue": 439,
       "salary": 596
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-18",
       "revenue": 646,
       "salary": 200
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-19",
       "revenue": 266,
       "salary": 269
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-20",
       "revenue": 31,
       "salary": 70
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-21",
       "revenue": 762,
       "salary": 548
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-22",
       "revenue": 82,
       "salary": 926
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-23",
       "revenue": 16,
       "salary": 167
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-24",
       "revenue": 130,
       "salary": 798
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-25",
       "revenue": 182,
       "salary": 289
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-26",
       "revenue": 525,
       "salary": 942
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-27",
       "revenue": 469,
       "salary": 742
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-28",
       "revenue": 137,
       "salary": 198
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-29",
       "revenue": 296,
       "salary": 196
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-06-30",
       "revenue": 223,
       "salary": 719
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-01",
       "revenue": 104,
       "salary": 75
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-02",
       "revenue": 505,
       "salary": 965
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-03",
       "revenue": 543,
       "salary": 503
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-04",
       "revenue": 320,
       "salary": 707
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-05",
       "revenue": 416,
       "salary": 412
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-06",
       "revenue": 931,
       "salary": 371
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-07",
       "revenue": 965,
       "salary": 902
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-08",
       "revenue": 873,
       "salary": 369
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-09",
       "revenue": 818,
       "salary": 262
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-10",
       "revenue": 587,
       "salary": 954
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-11",
       "revenue": 578,
       "salary": 153
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-12",
       "revenue": 417,
       "salary": 733
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-13",
       "revenue": 60,
       "salary": 366
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-14",
       "revenue": 52,
       "salary": 606
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-15",
       "revenue": 564,
       "salary": 222
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-16",
       "revenue": 773,
       "salary": 670
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-17",
       "revenue": 6,
       "salary": 898
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-18",
       "revenue": 785,
       "salary": 529
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-19",
       "revenue": 205,
       "salary": 624
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-20",
       "revenue": 491,
       "salary": 541
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-21",
       "revenue": 719,
       "salary": 447
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-22",
       "revenue": 335,
       "salary": 716
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-23",
       "revenue": 412,
       "salary": 24
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-24",
       "revenue": 310,
       "salary": 408
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-25",
       "revenue": 633,
       "salary": 381
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-26",
       "revenue": 639,
       "salary": 399
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-27",
       "revenue": 665,
       "salary": 454
     },
     {
-      "artist_id": 8,
+      "artistId": 8,
       "date": "2022-07-28",
       "revenue": 940,
       "salary": 19
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-05-30",
       "revenue": 815,
       "salary": 248
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-05-31",
       "revenue": 596,
       "salary": 986
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-01",
       "revenue": 169,
       "salary": 594
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-02",
       "revenue": 303,
       "salary": 653
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-03",
       "revenue": 27,
       "salary": 855
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-04",
       "revenue": 339,
       "salary": 251
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-05",
       "revenue": 607,
       "salary": 709
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-06",
       "revenue": 415,
       "salary": 605
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-07",
       "revenue": 784,
       "salary": 830
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-08",
       "revenue": 570,
       "salary": 703
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-09",
       "revenue": 71,
       "salary": 660
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-10",
       "revenue": 51,
       "salary": 164
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-11",
       "revenue": 722,
       "salary": 253
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-12",
       "revenue": 322,
       "salary": 90
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-13",
       "revenue": 249,
       "salary": 236
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-14",
       "revenue": 606,
       "salary": 397
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-15",
       "revenue": 206,
       "salary": 128
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-16",
       "revenue": 358,
       "salary": 467
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-17",
       "revenue": 735,
       "salary": 539
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-18",
       "revenue": 745,
       "salary": 948
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-19",
       "revenue": 644,
       "salary": 718
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-20",
       "revenue": 637,
       "salary": 30
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-21",
       "revenue": 292,
       "salary": 959
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-22",
       "revenue": 972,
       "salary": 276
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-23",
       "revenue": 526,
       "salary": 693
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-24",
       "revenue": 747,
       "salary": 215
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-25",
       "revenue": 841,
       "salary": 714
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-26",
       "revenue": 404,
       "salary": 587
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-27",
       "revenue": 377,
       "salary": 257
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-28",
       "revenue": 78,
       "salary": 181
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-29",
       "revenue": 550,
       "salary": 808
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-06-30",
       "revenue": 274,
       "salary": 863
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-01",
       "revenue": 65,
       "salary": 648
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-02",
       "revenue": 494,
       "salary": 316
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-03",
       "revenue": 989,
       "salary": 41
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-04",
       "revenue": 766,
       "salary": 96
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-05",
       "revenue": 900,
       "salary": 133
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-06",
       "revenue": 747,
       "salary": 668
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-07",
       "revenue": 485,
       "salary": 668
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-08",
       "revenue": 322,
       "salary": 903
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-09",
       "revenue": 270,
       "salary": 672
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-10",
       "revenue": 209,
       "salary": 790
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-11",
       "revenue": 247,
       "salary": 426
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-12",
       "revenue": 1,
       "salary": 131
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-13",
       "revenue": 235,
       "salary": 781
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-14",
       "revenue": 309,
       "salary": 595
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-15",
       "revenue": 12,
       "salary": 323
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-16",
       "revenue": 770,
       "salary": 842
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-17",
       "revenue": 480,
       "salary": 250
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-18",
       "revenue": 246,
       "salary": 337
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-19",
       "revenue": 709,
       "salary": 511
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-20",
       "revenue": 932,
       "salary": 53
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-21",
       "revenue": 438,
       "salary": 316
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-22",
       "revenue": 275,
       "salary": 108
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-23",
       "revenue": 671,
       "salary": 647
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-24",
       "revenue": 911,
       "salary": 124
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-25",
       "revenue": 185,
       "salary": 407
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-26",
       "revenue": 631,
       "salary": 483
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-27",
       "revenue": 802,
       "salary": 919
     },
     {
-      "artist_id": 9,
+      "artistId": 9,
       "date": "2022-07-28",
       "revenue": 812,
       "salary": 770
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-05-30",
       "revenue": 353,
       "salary": 189
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-05-31",
       "revenue": 512,
       "salary": 968
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-01",
       "revenue": 646,
       "salary": 175
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-02",
       "revenue": 976,
       "salary": 655
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-03",
       "revenue": 931,
       "salary": 794
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-04",
       "revenue": 307,
       "salary": 791
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-05",
       "revenue": 999,
       "salary": 194
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-06",
       "revenue": 454,
       "salary": 656
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-07",
       "revenue": 198,
       "salary": 950
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-08",
       "revenue": 696,
       "salary": 950
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-09",
       "revenue": 729,
       "salary": 989
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-10",
       "revenue": 931,
       "salary": 199
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-11",
       "revenue": 791,
       "salary": 798
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-12",
       "revenue": 947,
       "salary": 950
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-13",
       "revenue": 474,
       "salary": 683
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-14",
       "revenue": 222,
       "salary": 652
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-15",
       "revenue": 17,
       "salary": 168
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-16",
       "revenue": 974,
       "salary": 386
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-17",
       "revenue": 637,
       "salary": 292
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-18",
       "revenue": 295,
       "salary": 336
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-19",
       "revenue": 829,
       "salary": 691
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-20",
       "revenue": 470,
       "salary": 377
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-21",
       "revenue": 399,
       "salary": 111
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-22",
       "revenue": 257,
       "salary": 488
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-23",
       "revenue": 121,
       "salary": 829
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-24",
       "revenue": 256,
       "salary": 375
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-25",
       "revenue": 544,
       "salary": 463
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-26",
       "revenue": 659,
       "salary": 140
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-27",
       "revenue": 487,
       "salary": 515
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-28",
       "revenue": 867,
       "salary": 917
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-29",
       "revenue": 409,
       "salary": 829
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-06-30",
       "revenue": 943,
       "salary": 642
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-01",
       "revenue": 698,
       "salary": 674
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-02",
       "revenue": 694,
       "salary": 740
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-03",
       "revenue": 855,
       "salary": 292
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-04",
       "revenue": 416,
       "salary": 535
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-05",
       "revenue": 150,
       "salary": 489
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-06",
       "revenue": 58,
       "salary": 100
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-07",
       "revenue": 361,
       "salary": 553
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-08",
       "revenue": 246,
       "salary": 480
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-09",
       "revenue": 9,
       "salary": 255
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-10",
       "revenue": 18,
       "salary": 59
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-11",
       "revenue": 101,
       "salary": 208
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-12",
       "revenue": 838,
       "salary": 249
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-13",
       "revenue": 323,
       "salary": 288
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-14",
       "revenue": 935,
       "salary": 252
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-15",
       "revenue": 630,
       "salary": 298
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-16",
       "revenue": 784,
       "salary": 143
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-17",
       "revenue": 455,
       "salary": 509
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-18",
       "revenue": 688,
       "salary": 482
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-19",
       "revenue": 170,
       "salary": 515
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-20",
       "revenue": 626,
       "salary": 812
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-21",
       "revenue": 462,
       "salary": 487
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-22",
       "revenue": 176,
       "salary": 695
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-23",
       "revenue": 637,
       "salary": 139
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-24",
       "revenue": 460,
       "salary": 845
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-25",
       "revenue": 370,
       "salary": 586
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-26",
       "revenue": 934,
       "salary": 782
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-27",
       "revenue": 466,
       "salary": 250
     },
     {
-      "artist_id": 10,
+      "artistId": 10,
       "date": "2022-07-28",
       "revenue": 557,
       "salary": 971
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-05-30",
       "revenue": 995,
       "salary": 416
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-05-31",
       "revenue": 608,
       "salary": 539
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-01",
       "revenue": 845,
       "salary": 503
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-02",
       "revenue": 329,
       "salary": 51
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-03",
       "revenue": 299,
       "salary": 31
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-04",
       "revenue": 656,
       "salary": 268
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-05",
       "revenue": 677,
       "salary": 342
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-06",
       "revenue": 809,
       "salary": 580
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-07",
       "revenue": 319,
       "salary": 28
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-08",
       "revenue": 438,
       "salary": 398
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-09",
       "revenue": 202,
       "salary": 588
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-10",
       "revenue": 801,
       "salary": 361
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-11",
       "revenue": 59,
       "salary": 647
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-12",
       "revenue": 434,
       "salary": 653
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-13",
       "revenue": 246,
       "salary": 740
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-14",
       "revenue": 503,
       "salary": 153
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-15",
       "revenue": 953,
       "salary": 893
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-16",
       "revenue": 807,
       "salary": 902
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-17",
       "revenue": 717,
       "salary": 879
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-18",
       "revenue": 390,
       "salary": 540
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-19",
       "revenue": 574,
       "salary": 328
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-20",
       "revenue": 249,
       "salary": 226
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-21",
       "revenue": 152,
       "salary": 61
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-22",
       "revenue": 132,
       "salary": 999
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-23",
       "revenue": 351,
       "salary": 484
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-24",
       "revenue": 251,
       "salary": 518
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-25",
       "revenue": 384,
       "salary": 143
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-26",
       "revenue": 639,
       "salary": 544
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-27",
       "revenue": 350,
       "salary": 299
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-28",
       "revenue": 344,
       "salary": 699
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-29",
       "revenue": 510,
       "salary": 983
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-06-30",
       "revenue": 181,
       "salary": 97
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-01",
       "revenue": 293,
       "salary": 510
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-02",
       "revenue": 670,
       "salary": 344
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-03",
       "revenue": 152,
       "salary": 172
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-04",
       "revenue": 252,
       "salary": 604
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-05",
       "revenue": 739,
       "salary": 943
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-06",
       "revenue": 703,
       "salary": 209
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-07",
       "revenue": 734,
       "salary": 267
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-08",
       "revenue": 293,
       "salary": 308
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-09",
       "revenue": 892,
       "salary": 27
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-10",
       "revenue": 104,
       "salary": 483
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-11",
       "revenue": 13,
       "salary": 820
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-12",
       "revenue": 794,
       "salary": 430
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-13",
       "revenue": 947,
       "salary": 443
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-14",
       "revenue": 61,
       "salary": 780
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-15",
       "revenue": 208,
       "salary": 79
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-16",
       "revenue": 301,
       "salary": 217
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-17",
       "revenue": 176,
       "salary": 666
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-18",
       "revenue": 261,
       "salary": 175
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-19",
       "revenue": 717,
       "salary": 415
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-20",
       "revenue": 436,
       "salary": 165
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-21",
       "revenue": 447,
       "salary": 41
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-22",
       "revenue": 846,
       "salary": 551
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-23",
       "revenue": 446,
       "salary": 456
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-24",
       "revenue": 568,
       "salary": 463
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-25",
       "revenue": 917,
       "salary": 2
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-26",
       "revenue": 123,
       "salary": 271
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-27",
       "revenue": 233,
       "salary": 921
     },
     {
-      "artist_id": 11,
+      "artistId": 11,
       "date": "2022-07-28",
       "revenue": 789,
       "salary": 132
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-05-30",
       "revenue": 158,
       "salary": 266
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-05-31",
       "revenue": 750,
       "salary": 564
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-01",
       "revenue": 117,
       "salary": 701
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-02",
       "revenue": 674,
       "salary": 352
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-03",
       "revenue": 768,
       "salary": 778
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-04",
       "revenue": 436,
       "salary": 180
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-05",
       "revenue": 4,
       "salary": 932
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-06",
       "revenue": 151,
       "salary": 57
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-07",
       "revenue": 835,
       "salary": 110
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-08",
       "revenue": 108,
       "salary": 357
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-09",
       "revenue": 944,
       "salary": 30
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-10",
       "revenue": 547,
       "salary": 5
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-11",
       "revenue": 432,
       "salary": 328
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-12",
       "revenue": 100,
       "salary": 169
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-13",
       "revenue": 374,
       "salary": 933
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-14",
       "revenue": 19,
       "salary": 209
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-15",
       "revenue": 26,
       "salary": 758
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-16",
       "revenue": 91,
       "salary": 238
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-17",
       "revenue": 286,
       "salary": 172
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-18",
       "revenue": 545,
       "salary": 687
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-19",
       "revenue": 801,
       "salary": 916
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-20",
       "revenue": 756,
       "salary": 377
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-21",
       "revenue": 158,
       "salary": 686
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-22",
       "revenue": 405,
       "salary": 278
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-23",
       "revenue": 863,
       "salary": 832
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-24",
       "revenue": 502,
       "salary": 422
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-25",
       "revenue": 780,
       "salary": 512
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-26",
       "revenue": 562,
       "salary": 857
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-27",
       "revenue": 53,
       "salary": 82
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-28",
       "revenue": 71,
       "salary": 543
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-29",
       "revenue": 473,
       "salary": 579
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-06-30",
       "revenue": 768,
       "salary": 283
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-01",
       "revenue": 811,
       "salary": 521
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-02",
       "revenue": 563,
       "salary": 920
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-03",
       "revenue": 171,
       "salary": 683
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-04",
       "revenue": 266,
       "salary": 710
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-05",
       "revenue": 1,
       "salary": 702
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-06",
       "revenue": 94,
       "salary": 717
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-07",
       "revenue": 294,
       "salary": 4
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-08",
       "revenue": 928,
       "salary": 825
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-09",
       "revenue": 186,
       "salary": 361
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-10",
       "revenue": 72,
       "salary": 357
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-11",
       "revenue": 684,
       "salary": 200
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-12",
       "revenue": 939,
       "salary": 1
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-13",
       "revenue": 558,
       "salary": 258
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-14",
       "revenue": 322,
       "salary": 558
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-15",
       "revenue": 574,
       "salary": 17
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-16",
       "revenue": 976,
       "salary": 427
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-17",
       "revenue": 949,
       "salary": 377
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-18",
       "revenue": 176,
       "salary": 857
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-19",
       "revenue": 212,
       "salary": 79
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-20",
       "revenue": 289,
       "salary": 409
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-21",
       "revenue": 795,
       "salary": 97
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-22",
       "revenue": 954,
       "salary": 977
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-23",
       "revenue": 212,
       "salary": 17
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-24",
       "revenue": 159,
       "salary": 908
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-25",
       "revenue": 102,
       "salary": 13
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-26",
       "revenue": 19,
       "salary": 363
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-27",
       "revenue": 136,
       "salary": 902
     },
     {
-      "artist_id": 12,
+      "artistId": 12,
       "date": "2022-07-28",
       "revenue": 511,
       "salary": 441
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-05-30",
       "revenue": 836,
       "salary": 358
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-05-31",
       "revenue": 447,
       "salary": 662
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-01",
       "revenue": 633,
       "salary": 380
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-02",
       "revenue": 110,
       "salary": 64
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-03",
       "revenue": 213,
       "salary": 667
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-04",
       "revenue": 893,
       "salary": 697
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-05",
       "revenue": 416,
       "salary": 606
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-06",
       "revenue": 700,
       "salary": 396
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-07",
       "revenue": 47,
       "salary": 175
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-08",
       "revenue": 795,
       "salary": 738
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-09",
       "revenue": 746,
       "salary": 49
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-10",
       "revenue": 650,
       "salary": 234
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-11",
       "revenue": 773,
       "salary": 716
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-12",
       "revenue": 483,
       "salary": 482
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-13",
       "revenue": 897,
       "salary": 946
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-14",
       "revenue": 556,
       "salary": 120
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-15",
       "revenue": 828,
       "salary": 549
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-16",
       "revenue": 644,
       "salary": 271
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-17",
       "revenue": 764,
       "salary": 707
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-18",
       "revenue": 435,
       "salary": 359
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-19",
       "revenue": 980,
       "salary": 377
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-20",
       "revenue": 469,
       "salary": 227
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-21",
       "revenue": 392,
       "salary": 219
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-22",
       "revenue": 431,
       "salary": 728
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-23",
       "revenue": 573,
       "salary": 23
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-24",
       "revenue": 104,
       "salary": 578
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-25",
       "revenue": 888,
       "salary": 621
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-26",
       "revenue": 187,
       "salary": 181
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-27",
       "revenue": 305,
       "salary": 608
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-28",
       "revenue": 457,
       "salary": 234
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-29",
       "revenue": 75,
       "salary": 956
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-06-30",
       "revenue": 113,
       "salary": 247
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-01",
       "revenue": 94,
       "salary": 637
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-02",
       "revenue": 820,
       "salary": 980
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-03",
       "revenue": 217,
       "salary": 301
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-04",
       "revenue": 233,
       "salary": 919
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-05",
       "revenue": 575,
       "salary": 460
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-06",
       "revenue": 746,
       "salary": 540
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-07",
       "revenue": 761,
       "salary": 334
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-08",
       "revenue": 220,
       "salary": 432
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-09",
       "revenue": 444,
       "salary": 343
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-10",
       "revenue": 546,
       "salary": 131
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-11",
       "revenue": 12,
       "salary": 366
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-12",
       "revenue": 361,
       "salary": 264
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-13",
       "revenue": 459,
       "salary": 902
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-14",
       "revenue": 20,
       "salary": 621
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-15",
       "revenue": 643,
       "salary": 959
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-16",
       "revenue": 545,
       "salary": 961
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-17",
       "revenue": 560,
       "salary": 515
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-18",
       "revenue": 877,
       "salary": 560
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-19",
       "revenue": 418,
       "salary": 148
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-20",
       "revenue": 837,
       "salary": 67
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-21",
       "revenue": 298,
       "salary": 528
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-22",
       "revenue": 103,
       "salary": 430
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-23",
       "revenue": 582,
       "salary": 989
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-24",
       "revenue": 405,
       "salary": 835
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-25",
       "revenue": 326,
       "salary": 957
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-26",
       "revenue": 287,
       "salary": 8
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-27",
       "revenue": 354,
       "salary": 697
     },
     {
-      "artist_id": 13,
+      "artistId": 13,
       "date": "2022-07-28",
       "revenue": 219,
       "salary": 789
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-05-30",
       "revenue": 42,
       "salary": 132
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-05-31",
       "revenue": 139,
       "salary": 265
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-01",
       "revenue": 931,
       "salary": 997
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-02",
       "revenue": 531,
       "salary": 900
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-03",
       "revenue": 322,
       "salary": 839
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-04",
       "revenue": 895,
       "salary": 585
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-05",
       "revenue": 902,
       "salary": 90
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-06",
       "revenue": 26,
       "salary": 552
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-07",
       "revenue": 174,
       "salary": 34
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-08",
       "revenue": 762,
       "salary": 194
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-09",
       "revenue": 612,
       "salary": 560
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-10",
       "revenue": 599,
       "salary": 813
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-11",
       "revenue": 277,
       "salary": 246
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-12",
       "revenue": 603,
       "salary": 92
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-13",
       "revenue": 812,
       "salary": 553
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-14",
       "revenue": 914,
       "salary": 365
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-15",
       "revenue": 63,
       "salary": 309
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-16",
       "revenue": 15,
       "salary": 863
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-17",
       "revenue": 954,
       "salary": 349
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-18",
       "revenue": 606,
       "salary": 65
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-19",
       "revenue": 245,
       "salary": 932
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-20",
       "revenue": 276,
       "salary": 827
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-21",
       "revenue": 604,
       "salary": 475
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-22",
       "revenue": 320,
       "salary": 94
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-23",
       "revenue": 442,
       "salary": 707
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-24",
       "revenue": 40,
       "salary": 329
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-25",
       "revenue": 345,
       "salary": 281
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-26",
       "revenue": 444,
       "salary": 844
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-27",
       "revenue": 359,
       "salary": 62
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-28",
       "revenue": 366,
       "salary": 707
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-29",
       "revenue": 54,
       "salary": 711
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-06-30",
       "revenue": 328,
       "salary": 474
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-01",
       "revenue": 734,
       "salary": 744
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-02",
       "revenue": 304,
       "salary": 548
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-03",
       "revenue": 779,
       "salary": 766
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-04",
       "revenue": 134,
       "salary": 845
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-05",
       "revenue": 440,
       "salary": 346
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-06",
       "revenue": 876,
       "salary": 974
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-07",
       "revenue": 922,
       "salary": 826
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-08",
       "revenue": 259,
       "salary": 317
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-09",
       "revenue": 449,
       "salary": 781
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-10",
       "revenue": 761,
       "salary": 808
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-11",
       "revenue": 95,
       "salary": 410
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-12",
       "revenue": 185,
       "salary": 506
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-13",
       "revenue": 967,
       "salary": 135
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-14",
       "revenue": 32,
       "salary": 25
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-15",
       "revenue": 737,
       "salary": 117
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-16",
       "revenue": 641,
       "salary": 83
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-17",
       "revenue": 573,
       "salary": 459
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-18",
       "revenue": 921,
       "salary": 427
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-19",
       "revenue": 562,
       "salary": 240
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-20",
       "revenue": 903,
       "salary": 284
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-21",
       "revenue": 969,
       "salary": 190
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-22",
       "revenue": 87,
       "salary": 836
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-23",
       "revenue": 635,
       "salary": 693
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-24",
       "revenue": 144,
       "salary": 216
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-25",
       "revenue": 677,
       "salary": 83
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-26",
       "revenue": 806,
       "salary": 25
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-27",
       "revenue": 798,
       "salary": 951
     },
     {
-      "artist_id": 14,
+      "artistId": 14,
       "date": "2022-07-28",
       "revenue": 452,
       "salary": 676
     }
-  ], "label_profits": [
+  ],
+  "label_profits": [
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-05-30",
       "daily_profit": 50000
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-05-31",
       "daily_profit": 8784
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-01",
       "daily_profit": 4834
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-02",
       "daily_profit": 1007
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-03",
       "daily_profit": 5614
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-04",
       "daily_profit": 9822
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-05",
       "daily_profit": 19
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-06",
       "daily_profit": 8963
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-07",
       "daily_profit": 9960
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-08",
       "daily_profit": 6518
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-09",
       "daily_profit": 2206
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-10",
       "daily_profit": 777
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-11",
       "daily_profit": 4106
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-12",
       "daily_profit": 3706
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-13",
       "daily_profit": 6502
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-14",
       "daily_profit": 6762
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-15",
       "daily_profit": 8392
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-16",
       "daily_profit": 4198
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-17",
       "daily_profit": 3401
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-18",
       "daily_profit": 8102
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-19",
       "daily_profit": 9465
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-20",
       "daily_profit": 4091
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-21",
       "daily_profit": 2369
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-22",
       "daily_profit": 5395
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-23",
       "daily_profit": 9929
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-24",
       "daily_profit": 30
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-25",
       "daily_profit": 6871
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-26",
       "daily_profit": 6296
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-27",
       "daily_profit": 2877
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-28",
       "daily_profit": 2303
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-29",
       "daily_profit": 6594
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-06-30",
       "daily_profit": 2218
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-01",
       "daily_profit": 8766
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-02",
       "daily_profit": 8984
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-03",
       "daily_profit": 1836
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-04",
       "daily_profit": 8918
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-05",
       "daily_profit": 7699
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-06",
       "daily_profit": 8245
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-07",
       "daily_profit": 5845
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-08",
       "daily_profit": 7418
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-09",
       "daily_profit": 9437
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-10",
       "daily_profit": 1727
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-11",
       "daily_profit": 7094
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-12",
       "daily_profit": 3185
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-13",
       "daily_profit": 2081
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-14",
       "daily_profit": 3121
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-15",
       "daily_profit": 3039
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-16",
       "daily_profit": 2266
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-17",
       "daily_profit": 8192
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-18",
       "daily_profit": 1862
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-19",
       "daily_profit": 8848
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-20",
       "daily_profit": 4078
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-21",
       "daily_profit": 7261
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-22",
       "daily_profit": 2084
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-23",
       "daily_profit": 2701
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-24",
       "daily_profit": 2448
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-25",
       "daily_profit": 8651
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-26",
       "daily_profit": 6886
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-27",
       "daily_profit": 8258
     },
     {
-      "label_id": 0,
+      "labelId": 0,
       "date": "2022-07-28",
       "daily_profit": 1590
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-05-30",
       "daily_profit": 50000
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-05-31",
       "daily_profit": 5449
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-01",
       "daily_profit": 3583
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-02",
       "daily_profit": 9575
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-03",
       "daily_profit": 4193
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-04",
       "daily_profit": 7998
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-05",
       "daily_profit": 7370
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-06",
       "daily_profit": 7039
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-07",
       "daily_profit": 4935
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-08",
       "daily_profit": 3688
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-09",
       "daily_profit": 9845
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-10",
       "daily_profit": 5120
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-11",
       "daily_profit": 8516
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-12",
       "daily_profit": 3576
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-13",
       "daily_profit": 5759
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-14",
       "daily_profit": 36
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-15",
       "daily_profit": 9763
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-16",
       "daily_profit": 4310
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-17",
       "daily_profit": 7674
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-18",
       "daily_profit": 6245
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-19",
       "daily_profit": 3369
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-20",
       "daily_profit": 1161
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-21",
       "daily_profit": 7213
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-22",
       "daily_profit": 2719
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-23",
       "daily_profit": 6745
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-24",
       "daily_profit": 6097
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-25",
       "daily_profit": 4458
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-26",
       "daily_profit": 6267
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-27",
       "daily_profit": 1986
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-28",
       "daily_profit": 7010
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-29",
       "daily_profit": 563
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-06-30",
       "daily_profit": 7373
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-01",
       "daily_profit": 6083
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-02",
       "daily_profit": 2037
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-03",
       "daily_profit": 13
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-04",
       "daily_profit": 2544
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-05",
       "daily_profit": 6597
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-06",
       "daily_profit": 8106
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-07",
       "daily_profit": 9007
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-08",
       "daily_profit": 8528
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-09",
       "daily_profit": 3128
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-10",
       "daily_profit": 1225
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-11",
       "daily_profit": 6010
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-12",
       "daily_profit": 5582
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-13",
       "daily_profit": 4590
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-14",
       "daily_profit": 3306
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-15",
       "daily_profit": 9148
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-16",
       "daily_profit": 7712
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-17",
       "daily_profit": 5448
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-18",
       "daily_profit": 4291
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-19",
       "daily_profit": 4205
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-20",
       "daily_profit": 6541
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-21",
       "daily_profit": 3922
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-22",
       "daily_profit": 2682
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-23",
       "daily_profit": 9594
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-24",
       "daily_profit": 1983
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-25",
       "daily_profit": 9803
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-26",
       "daily_profit": 8314
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-27",
       "daily_profit": 9563
     },
     {
-      "label_id": 1,
+      "labelId": 1,
       "date": "2022-07-28",
       "daily_profit": 7424
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-05-30",
       "daily_profit": 50000
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-05-31",
       "daily_profit": 919
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-01",
       "daily_profit": 3115
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-02",
       "daily_profit": 2108
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-03",
       "daily_profit": 2888
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-04",
       "daily_profit": 3841
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-05",
       "daily_profit": 3796
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-06",
       "daily_profit": 6675
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-07",
       "daily_profit": 1352
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-08",
       "daily_profit": 9450
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-09",
       "daily_profit": 2619
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-10",
       "daily_profit": 7689
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-11",
       "daily_profit": 1518
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-12",
       "daily_profit": 309
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-13",
       "daily_profit": 3616
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-14",
       "daily_profit": 900
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-15",
       "daily_profit": 3822
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-16",
       "daily_profit": 399
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-17",
       "daily_profit": 5462
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-18",
       "daily_profit": 2339
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-19",
       "daily_profit": 7107
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-20",
       "daily_profit": 5177
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-21",
       "daily_profit": 729
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-22",
       "daily_profit": 6239
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-23",
       "daily_profit": 4233
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-24",
       "daily_profit": 8840
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-25",
       "daily_profit": 7923
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-26",
       "daily_profit": 9028
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-27",
       "daily_profit": 5858
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-28",
       "daily_profit": 7997
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-29",
       "daily_profit": 7685
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-06-30",
       "daily_profit": 209
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-01",
       "daily_profit": 7175
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-02",
       "daily_profit": 1416
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-03",
       "daily_profit": 4253
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-04",
       "daily_profit": 5987
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-05",
       "daily_profit": 913
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-06",
       "daily_profit": 7057
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-07",
       "daily_profit": 3312
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-08",
       "daily_profit": 9822
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-09",
       "daily_profit": 1688
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-10",
       "daily_profit": 8331
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-11",
       "daily_profit": 242
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-12",
       "daily_profit": 9248
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-13",
       "daily_profit": 3988
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-14",
       "daily_profit": 1532
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-15",
       "daily_profit": 1322
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-16",
       "daily_profit": 2769
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-17",
       "daily_profit": 6550
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-18",
       "daily_profit": 6069
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-19",
       "daily_profit": 7595
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-20",
       "daily_profit": 1661
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-21",
       "daily_profit": 9994
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-22",
       "daily_profit": 9288
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-23",
       "daily_profit": 4701
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-24",
       "daily_profit": 5961
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-25",
       "daily_profit": 1369
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-26",
       "daily_profit": 5192
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-27",
       "daily_profit": 8512
     },
     {
-      "label_id": 2,
+      "labelId": 2,
       "date": "2022-07-28",
       "daily_profit": 1796
     }
