@@ -1,15 +1,12 @@
-import "../styles/globals.css";
-import { AppProvider } from "../context/AppProvider";
-import { useApi } from "../hook/api/useApi.hook";
-import App from "next/app";
-import { League } from "../hook/api/types";
-import type { AppProps as NextAppProps, AppContext } from "next/app";
+import App, { AppContext, AppProps } from "next/app";
 import { Layout } from "../components/Layout/Layout";
+import { AppProvider } from "../context/AppProvider";
+import { League } from "../hook/api/types";
+import { useApi } from "../hook/api/useApi.hook";
+import "../styles/globals.css";
 
-type AppProps<P = any> = {
-  pageProps: P;
-} & Omit<NextAppProps<P>, "pageProps">;
 function MyApp({ Component, pageProps, leagues }: AppProps & { leagues: League[] }) {
+  console.log(leagues[0]);
   return (
     <AppProvider leagues={leagues}>
       <Layout>
@@ -23,7 +20,6 @@ MyApp.getInitialProps = async (ctx: AppContext) => {
   const pageProps = await App.getInitialProps(ctx);
   const { getLeagues } = useApi();
   const leagues = await getLeagues();
-  console.log("LEAGUE ==>", leagues);
   return { ...pageProps, leagues };
 };
 export default MyApp;

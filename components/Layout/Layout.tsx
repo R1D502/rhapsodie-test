@@ -7,10 +7,10 @@ interface LayoutProps {
 
 export const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
-    <>
+    <div>
       <Header />
       <main>{children}</main>
       <Footer />
-    </>
+    </div>
   );
 };

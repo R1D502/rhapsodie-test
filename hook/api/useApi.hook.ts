@@ -4,14 +4,14 @@ import { Label, League } from "./types";
 const BASE_URL = "http://localhost:3000";
 
 interface UseApiOutput {
-  getLabels: () => Promise<Label[]>;
+  getLabelAndLabelProfitsByLeagueId: (leagueId: number) => Promise<Label>;
   getLeagues: () => Promise<League[]>;
 }
 
 export const useApi = (): UseApiOutput => {
-  const getLabels = async (): Promise<Label[]> => {
-    const { data } = await axios.get<Label[]>(`${BASE_URL}/label`);
-    return data ?? [];
+  const getLabelAndLabelProfitsByLeagueId = async (leagueId: number): Promise<Label> => {
+    const { data } = await axios.get<Label>(`${BASE_URL}/label/${leagueId}?_embed=label_profits`);
+    return data;
   };
 
   const getLeagues = async (): Promise<League[]> => {
@@ -20,7 +20,7 @@ export const useApi = (): UseApiOutput => {
   };
 
   return {
-    getLabels,
+    getLabelAndLabelProfitsByLeagueId,
     getLeagues,
   };
 };
