@@ -1,10 +1,8 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import { Header } from "../components/Header";
-import { useApp } from "../context/useAppContext.hook";
-import { Label, League } from "../hook/api/types";
+import { Header } from "../components/Header/Header";
+import { League } from "../hook/api/types";
 import { useApi } from "../hook/api/useApi.hook";
-import styles from "../styles/Home.module.css";
 
 interface HomeProps {
   leagues: League[];
