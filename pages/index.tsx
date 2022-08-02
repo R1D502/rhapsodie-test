@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import { Footer } from "../components/Footer/Footer";
 import { Header } from "../components/Header/Header";
 import { League } from "../hook/api/types";
 import { useApi } from "../hook/api/useApi.hook";
@@ -18,6 +19,7 @@ const Home: NextPage<HomeProps> = ({ leagues }) => {
       </Head>
       <Header leagues={leagues} />
       <main></main>
+      <Footer />
     </div>
   );
 };
