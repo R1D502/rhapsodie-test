@@ -1,14 +1,9 @@
 import { useApp } from "../../context/useAppContext.hook";
-import { League } from "../../hook/api/types";
 import { LeagueSelector } from "./LeagueSelector";
 
-interface HeaderProps {
-  leagues: League[];
-}
-
-export const Header: React.FC<HeaderProps> = ({ leagues }) => {
-  const { currentLeague } = useApp();
-  if (!currentLeague) return null;
+export const Header: React.FC = () => {
+  const { currentLeague, leagues } = useApp();
+  if (!currentLeague || !leagues) return null;
   const currentLabel = currentLeague.label[0];
   return (
     <>

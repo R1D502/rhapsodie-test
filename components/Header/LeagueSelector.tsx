@@ -18,7 +18,7 @@ export const LeagueSelector: React.FC<LeagueSelectorProps> = ({ currentLeague, l
           .filter(league => league.id !== currentLeague.id)
           .map(league => {
             return (
-              <li onClick={() => setCurrentLeague(league)}>
+              <li key={league.id} onClick={() => setCurrentLeague(league)}>
                 <a>{league.name}</a>
               </li>
             );
