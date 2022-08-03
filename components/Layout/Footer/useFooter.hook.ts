@@ -5,7 +5,6 @@ import { getRouterUrlFromView } from "./utils/utils";
 export enum Views {
   SIGNATURE = "SIGNATURE",
   MARKET = "MARKET",
-  ARTIST = "ARTIST",
   LABEL = "LABEL",
 }
 

@@ -9,7 +9,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <div>
       <Header />
-      <main>{children}</main>
+      <main className="md:w-3/6 md:m-auto">{children}</main>
       <Footer />
     </div>
   );

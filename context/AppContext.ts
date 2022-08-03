@@ -1,4 +1,5 @@
 import { createContext } from "react";
+import { Views } from "../components/Layout/Footer/useFooter.hook";
 import { Label, League, Signature } from "../hook/api/types";
 
 export interface AppContext {
@@ -7,6 +8,8 @@ export interface AppContext {
   currentLeague: League | undefined;
   currentLabelAndLabelProfits: Label | undefined;
   currentSignatureAndArtist: Signature[];
+  currentView: Views;
+  onClickIconView: (view: Views) => () => void;
 }
 
 const appContext: AppContext = {
@@ -15,6 +18,8 @@ const appContext: AppContext = {
   setCurrentLeague: () => undefined,
   currentLeague: undefined,
   currentSignatureAndArtist: [],
+  currentView: Views.LABEL,
+  onClickIconView: () => () => undefined,
 };
 
 export const AppCTX = createContext<AppContext>(appContext);

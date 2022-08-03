@@ -14,7 +14,7 @@ export interface Signature {
   id: number;
   labelId: number;
   artistId: number;
-  artist: Artist[];
+  artist: Artist;
 }
 export interface Label {
   id: number;
