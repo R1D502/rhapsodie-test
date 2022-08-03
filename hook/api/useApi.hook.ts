@@ -12,7 +12,6 @@ interface UseApiOutput {
 export const useApi = (): UseApiOutput => {
   const getLabelAndLabelProfitsByLeagueId = async (leagueId: number): Promise<Label> => {
     const { data } = await axios.get<Label[]>(`${BASE_URL}/label/?leagueId=${leagueId}&_embed=label_profits`);
-    console.log(data);
     return data[0];
   };
 
@@ -26,6 +25,7 @@ export const useApi = (): UseApiOutput => {
         };
       })
     );
+    console.log("DAT", signatureAndArtist);
     return signatureAndArtist;
   };
 
