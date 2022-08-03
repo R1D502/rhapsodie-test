@@ -6,7 +6,6 @@ import { useApi } from "../hook/api/useApi.hook";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps, leagues }: AppProps & { leagues: League[] }) {
-  console.log(leagues[0]);
   return (
     <AppProvider leagues={leagues}>
       <Layout>

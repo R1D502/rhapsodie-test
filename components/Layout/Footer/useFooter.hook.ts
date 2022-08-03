@@ -1,4 +1,6 @@
+import { useRouter } from "next/router";
 import { useState } from "react";
+import { getRouterUrlFromView } from "./utils/utils";
 
 export enum Views {
   SIGNATURE = "SIGNATURE",
@@ -14,9 +16,11 @@ interface UseFooterMenuOutput {
 
 export const useFooterMenu = (): UseFooterMenuOutput => {
   const [currentView, setCurrentView] = useState(Views.LABEL);
+  const { push } = useRouter();
 
   const onClickIconView = (view: Views) => () => {
     setCurrentView(view);
+    push(getRouterUrlFromView(view));
   };
 
   return {

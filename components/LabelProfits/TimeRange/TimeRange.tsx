@@ -12,7 +12,6 @@ export const TimeRange: React.FC<TimeRangeProps> = ({ timeRangeValue, onChangeRa
         type="range"
         min="0"
         max="100"
-        defaultValue="0"
         className="range range-primary mb-2 "
         step="25"
         value={timeRangeValue}
@@ -23,10 +22,10 @@ export const TimeRange: React.FC<TimeRangeProps> = ({ timeRangeValue, onChangeRa
       />
       <div className="w-full flex justify-between text-xs px-5">
         <span>Year</span>
-        <span>Trimester</span>
-        <span>Month</span>
-        <span>Week</span>
-        <span>Day</span>
+        <span>3 Months</span>
+        <span> Month </span>
+        <span> Week </span>
+        <span> Day </span>
       </div>
     </>
   );

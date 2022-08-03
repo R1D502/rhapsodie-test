@@ -6,7 +6,7 @@ export const timeValueToTimeString = (value: TimeRangeValue): string => {
     case 0:
       return "Year";
     case 25:
-      return "Trimester";
+      return "3 Months";
     case 50:
       return "Month";
     case 75:
@@ -38,8 +38,7 @@ export const timeValueToDate = (today: Date, value: TimeRangeValue): Date => {
 };
 
 export const getLabelProfitsByTimeRange = (date: Date, labelProfits: LabelProfits[]): LabelProfits[] => {
-  const currentLabelProfits = labelProfits.filter(labelProfit => new Date(labelProfit.date).getTime() >= date.getTime());
-  return currentLabelProfits;
+  return labelProfits.filter(labelProfit => new Date(labelProfit.date).getTime() >= date.getTime());
 };
 
 export const sumLabelProfitsFunds = (labelProfits: LabelProfits[]): number => {
@@ -47,7 +46,6 @@ export const sumLabelProfitsFunds = (labelProfits: LabelProfits[]): number => {
 };
 
 export const getLabelProfitsBeneficeBetweenDates = (value: TimeRangeValue, labelProfits: LabelProfits[]): number => {
-  console.log(labelProfits);
   if (!labelProfits) return 0;
   const TODAY = new Date("2022-07-28");
   const date = timeValueToDate(TODAY, value);

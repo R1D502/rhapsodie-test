@@ -7,10 +7,9 @@ import { useApp } from "../context/useAppContext.hook";
 
 const Label: React.FC = () => {
   const { currentLabelAndLabelProfits } = useApp();
+  const labelProfits = currentLabelAndLabelProfits?.label_profits || [];
+  const { timeRangeValue, timeValueString, onChangeRangeValue, profits } = useLabelProfits(labelProfits);
   if (!currentLabelAndLabelProfits) return null;
-  console.log(currentLabelAndLabelProfits);
-  const { label_profits } = currentLabelAndLabelProfits;
-  const { timeRangeValue, timeValueString, onChangeRangeValue, profits } = useLabelProfits(label_profits);
   return (
     <div className="w-5/6 flex justify-center items-center flex-col">
       <h1 className="text-3xl text-bold text-left">{currentLabelAndLabelProfits.name}</h1>

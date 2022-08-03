@@ -1,11 +1,12 @@
 import { createContext } from "react";
-import { Label, League } from "../hook/api/types";
+import { Label, League, Signature } from "../hook/api/types";
 
 export interface AppContext {
   leagues: League[];
   setCurrentLeague: (league: League) => void;
   currentLeague: League | undefined;
   currentLabelAndLabelProfits: Label | undefined;
+  currentSignatureAndArtist: Signature[];
 }
 
 const appContext: AppContext = {
@@ -13,6 +14,7 @@ const appContext: AppContext = {
   leagues: [],
   setCurrentLeague: () => undefined,
   currentLeague: undefined,
+  currentSignatureAndArtist: [],
 };
 
 export const AppCTX = createContext<AppContext>(appContext);

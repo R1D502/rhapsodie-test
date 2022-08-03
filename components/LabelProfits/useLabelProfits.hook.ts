@@ -12,7 +12,7 @@ interface UseLabelProfitsOutput {
 }
 
 export const useLabelProfits = (labelProfits: LabelProfits[]): UseLabelProfitsOutput => {
-  const [timeRangeValue, setTimeRangeValue] = useState<TimeRangeValue>(0);
+  const [timeRangeValue, setTimeRangeValue] = useState<TimeRangeValue>(75);
 
   const timeValueString = timeValueToTimeString(timeRangeValue);
 
@@ -20,10 +20,11 @@ export const useLabelProfits = (labelProfits: LabelProfits[]): UseLabelProfitsOu
     setTimeRangeValue(value);
   };
 
+  const profits = getLabelProfitsBeneficeBetweenDates(timeRangeValue, labelProfits);
   return {
     timeRangeValue,
     timeValueString,
     onChangeRangeValue,
-    profits: getLabelProfitsBeneficeBetweenDates(timeRangeValue, labelProfits),
+    profits,
   };
 };

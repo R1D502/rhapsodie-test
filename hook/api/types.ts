@@ -3,6 +3,19 @@ export interface LabelProfits {
   date: string;
   daily_profit: number;
 }
+
+export interface Artist {
+  id: number;
+  name: string;
+  image: string;
+}
+
+export interface Signature {
+  id: number;
+  labelId: number;
+  artistId: number;
+  artist: Artist[];
+}
 export interface Label {
   id: number;
   name: string;

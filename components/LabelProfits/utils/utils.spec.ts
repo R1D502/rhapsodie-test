@@ -44,7 +44,6 @@ describe("LabelProfits", () => {
     [mockedLabelProfits, 16869],
     [mockedLabelProfits.slice(0, 2), 6561],
   ] as SumLabelProfitsFundsInput[])("getLabelProfitsByTimeRange(%s, %s) should return %s", (input, expected) => {
-    console.log(mockedLabelProfits.slice(0, 2));
     expect(sumLabelProfitsFunds(input)).toBe(expected);
   });
 });
