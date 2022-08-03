@@ -1,5 +1,5 @@
-import { useApp } from "../../context/useAppContext.hook";
-import { League } from "../../hook/api/types";
+import { useApp } from "../../../context/useAppContext.hook";
+import { League } from "../../../hook/api/types";
 
 interface LeagueSelectorProps {
   leagues: League[];

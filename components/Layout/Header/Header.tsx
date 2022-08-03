@@ -1,4 +1,4 @@
-import { useApp } from "../../context/useAppContext.hook";
+import { useApp } from "../../../context/useAppContext.hook";
 import { LeagueSelector } from "./LeagueSelector";
 
 export const Header: React.FC = () => {
