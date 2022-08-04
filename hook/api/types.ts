@@ -4,6 +4,16 @@ export interface LabelProfits {
   daily_profit: number;
 }
 
+export interface ArtistMetrics {
+  artistId: number;
+  date: string;
+  revenue: number;
+  salary: number;
+}
+
+export interface ArtistAndArtistMetrics extends Artist {
+  artist_metrics: ArtistMetrics[];
+}
 export interface Artist {
   id: number;
   name: string;

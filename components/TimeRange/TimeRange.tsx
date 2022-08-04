@@ -1,4 +1,4 @@
-import { TimeRangeValue } from "../useLabelProfits.hook";
+import { TimeRangeValue } from "./useTimeRange.hook";
 
 interface TimeRangeProps {
   timeRangeValue: TimeRangeValue;

@@ -1,25 +1,25 @@
 import { useRouter } from "next/router";
 import { useState } from "react";
-import { getRouterUrlFromView } from "./utils/utils";
+import { setDefaultRoute } from "./utils/utils";
 
 export enum Views {
-  SIGNATURE = "SIGNATURE",
-  MARKET = "MARKET",
-  LABEL = "LABEL",
+  SIGNATURE = "/signature",
+  MARKET = "/market",
+  LABEL = "/",
 }
 
-interface UseFooterMenuOutput {
+interface UseBottomNavBarOutput {
   currentView: Views;
   onClickIconView: (view: Views) => () => void;
 }
 
-export const useFooterMenu = (): UseFooterMenuOutput => {
-  const [currentView, setCurrentView] = useState(Views.LABEL);
-  const { push } = useRouter();
-
+export const useBottomNavBar = (): UseBottomNavBarOutput => {
+  const { pathname, push, query } = useRouter();
+  const [currentView, setCurrentView] = useState(setDefaultRoute(pathname));
+  console.log(currentView, query);
   const onClickIconView = (view: Views) => () => {
     setCurrentView(view);
-    push(getRouterUrlFromView(view));
+    push(view);
   };
 
   return {

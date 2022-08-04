@@ -1,8 +1,8 @@
 import { NextPage } from "next";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import { useApp } from "../context/useAppContext.hook";
-import { Signature } from "../hook/api/types";
+import { useApp } from "../../context/useAppContext.hook";
+import { Signature } from "../../hook/api/types";
 
 const SignatureItem: React.FC<{ signature: Signature }> = ({ signature }) => {
   const { artist } = signature;
@@ -26,7 +26,6 @@ const SignatureItem: React.FC<{ signature: Signature }> = ({ signature }) => {
 const Signature: NextPage = () => {
   const { currentSignatureAndArtist } = useApp();
   const router = useRouter();
-  console.log("currentSignatureAndArtist", currentSignatureAndArtist);
   if (!currentSignatureAndArtist.length) return null;
   return (
     <div className="h-full w-full p-5 overflow-scroll">
@@ -41,7 +40,7 @@ const Signature: NextPage = () => {
             <button
               key={signature.id}
               className="w-full btn h-2/6 my-3"
-              onClick={() => router.push("/artist", { query: { id: signature.artistId } })}
+              onClick={() => router.push("/artist/[id]", `/artist/${signature.artistId}`)}
             >
               <SignatureItem signature={signature} />
             </button>

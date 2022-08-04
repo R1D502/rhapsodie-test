@@ -6,6 +6,8 @@ const BASE_URL = "http://localhost:3000";
 interface UseApiOutput {
   getLabelAndLabelProfitsByLeagueId: (leagueId: number) => Promise<Label>;
   getSignaturesAndArtistsByLabelId: (labelId: number) => Promise<Signature[]>;
+  getArtistAndArtistMetricsByArtistId: (artistId: number) => Promise<Artist>;
+  getAllArtistIds: () => Promise<number[]>;
   getLeagues: () => Promise<League[]>;
 }
 
@@ -25,8 +27,20 @@ export const useApi = (): UseApiOutput => {
         };
       })
     );
-    console.log("DAT", signatureAndArtist);
     return signatureAndArtist;
+  };
+
+  const getArtistAndArtistMetricsByArtistId = async (artistId: number): Promise<Artist> => {
+    const { data } = await axios.get<Artist>(`${BASE_URL}/artist/${artistId}?_embed=artist_metrics`);
+    console.log("ARTIST", data);
+    return data;
+  };
+
+  const getAllArtistIds = async (): Promise<number[]> => {
+    const { data } = await axios.get<Artist[]>(`${BASE_URL}/artist`);
+    const artistIds = data.map(artist => artist.id);
+    console.log("ARTIST ID ", artistIds);
+    return artistIds;
   };
 
   const getLeagues = async (): Promise<League[]> => {
@@ -37,6 +51,8 @@ export const useApi = (): UseApiOutput => {
   return {
     getLabelAndLabelProfitsByLeagueId,
     getSignaturesAndArtistsByLabelId,
+    getArtistAndArtistMetricsByArtistId,
+    getAllArtistIds,
     getLeagues,
   };
 };
