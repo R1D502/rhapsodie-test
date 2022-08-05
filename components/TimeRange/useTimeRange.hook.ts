@@ -2,6 +2,8 @@ import { useState } from "react";
 import { ArtistMetrics, LabelProfits } from "../../hook/api/types";
 import {
   getArtistMetricsBeneficeBetweenDates,
+  getArtistMetricsRevenueBetweenDates,
+  getArtistMetricsSalaryBetweenDates,
   getLabelProfitsBeneficeBetweenDates,
   timeValueToTimeString,
 } from "../LabelProfits/utils/utils";
@@ -13,6 +15,8 @@ interface UseTimeRangeOutput {
   onChangeRangeValue: (value: TimeRangeValue) => void;
   timeValueString: string;
   profits: number;
+  revenue: number;
+  salary: number;
 }
 
 interface UseTimeRangeProps {
@@ -34,10 +38,15 @@ export const useTimeRange = ({ labelProfits, artistMetrics }: UseTimeRangeProps)
     : artistMetrics
     ? getArtistMetricsBeneficeBetweenDates(timeRangeValue, artistMetrics)
     : 0;
+
+  const revenue = artistMetrics ? getArtistMetricsRevenueBetweenDates(timeRangeValue, artistMetrics) : 0;
+  const salary = artistMetrics ? getArtistMetricsSalaryBetweenDates(timeRangeValue, artistMetrics) : 0;
   return {
     timeRangeValue,
     timeValueString,
     onChangeRangeValue,
     profits,
+    revenue,
+    salary,
   };
 };

@@ -53,12 +53,36 @@ export const sumArtistMetricsFunds = (artistMetrics: ArtistMetrics[]): number =>
   return artistMetrics.reduce((acc, artistMetric) => acc + (artistMetric.revenue - artistMetric.salary), 0);
 };
 
+export const sumArtistMetricsRevenue = (artistMetrics: ArtistMetrics[]): number => {
+  return artistMetrics.reduce((acc, artistMetric) => acc + artistMetric.revenue, 0);
+};
+
+export const sumArtistMetricsSalary = (artistMetrics: ArtistMetrics[]): number => {
+  return artistMetrics.reduce((acc, artistMetric) => acc + artistMetric.salary, 0);
+};
+
 export const getArtistMetricsBeneficeBetweenDates = (value: TimeRangeValue, artistMetrics: ArtistMetrics[]): number => {
   if (!artistMetrics) return 0;
   const TODAY = new Date("2022-07-28");
   const date = timeValueToDateFromToday(TODAY, value);
   const targetedLabelProfits = getArtistMetricsByTimeRange(date, artistMetrics);
   return sumArtistMetricsFunds(targetedLabelProfits);
+};
+
+export const getArtistMetricsSalaryBetweenDates = (value: TimeRangeValue, artistMetrics: ArtistMetrics[]): number => {
+  if (!artistMetrics) return 0;
+  const TODAY = new Date("2022-07-28");
+  const date = timeValueToDateFromToday(TODAY, value);
+  const targetedLabelProfits = getArtistMetricsByTimeRange(date, artistMetrics);
+  return sumArtistMetricsSalary(targetedLabelProfits);
+};
+
+export const getArtistMetricsRevenueBetweenDates = (value: TimeRangeValue, artistMetrics: ArtistMetrics[]): number => {
+  if (!artistMetrics) return 0;
+  const TODAY = new Date("2022-07-28");
+  const date = timeValueToDateFromToday(TODAY, value);
+  const targetedLabelProfits = getArtistMetricsByTimeRange(date, artistMetrics);
+  return sumArtistMetricsRevenue(targetedLabelProfits);
 };
 
 export const getLabelProfitsBeneficeBetweenDates = (value: TimeRangeValue, labelProfits: LabelProfits[]): number => {
