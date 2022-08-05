@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useState } from "react";
-import { useBottomNavBar, Views } from "../components/Layout/Footer/useFooter.hook";
 import { Label, League, Signature } from "../hook/api/types";
 import { useApi } from "../hook/api/useApi.hook";
 import { AppContext } from "./AppContext";
+import { useBottomNavBar, Views } from "./useBottomNavBar.hook";
 
 export const useAppProvider = (leagues: League[]): AppContext => {
   const { currentView, onClickIconView } = useBottomNavBar();

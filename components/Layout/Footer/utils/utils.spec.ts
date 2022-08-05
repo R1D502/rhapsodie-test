@@ -1,4 +1,4 @@
-import { Views } from "../useFooter.hook";
+import { Views } from "../../../../context/useBottomNavBar.hook";
 import { isViewActive } from "./utils";
 
 describe("isViewActive", () => {

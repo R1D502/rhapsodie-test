@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useApp } from "../../../context/useAppContext.hook";
-import { Views } from "./useFooter.hook";
+import { Views } from "../../../context/useBottomNavBar.hook";
 import { isViewActive } from "./utils/utils";
 
 export const Footer: React.FC = () => {

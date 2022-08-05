@@ -1,4 +1,4 @@
-import { Views } from "../useFooter.hook";
+import { Views } from "../../../../context/useBottomNavBar.hook";
 
 export const isViewActive = (pathname: string, view: Views): string | null => {
   if (pathname === view) return "active";

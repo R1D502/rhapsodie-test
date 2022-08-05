@@ -1,6 +1,6 @@
 import { createContext } from "react";
-import { Views } from "../components/Layout/Footer/useFooter.hook";
 import { Label, League, Signature } from "../hook/api/types";
+import { Views } from "./useBottomNavBar.hook";
 
 export interface AppContext {
   leagues: League[];

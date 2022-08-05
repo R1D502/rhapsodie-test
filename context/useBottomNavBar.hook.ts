@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useState } from "react";
-import { setDefaultRoute } from "./utils/utils";
+import { setDefaultRoute } from "../components/Layout/Footer/utils/utils";
 
 export enum Views {
   SIGNATURE = "/signature",
