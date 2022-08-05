@@ -14,9 +14,8 @@ interface UseBottomNavBarOutput {
 }
 
 export const useBottomNavBar = (): UseBottomNavBarOutput => {
-  const { pathname, push, query } = useRouter();
+  const { pathname, push } = useRouter();
   const [currentView, setCurrentView] = useState(setDefaultRoute(pathname));
-  console.log(currentView, query);
   const onClickIconView = (view: Views) => () => {
     setCurrentView(view);
     push(view);
