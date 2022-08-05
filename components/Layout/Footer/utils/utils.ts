@@ -27,5 +27,6 @@ export const getRouterUrlFromView = (currentView: Views): string => {
 
 export const setDefaultRoute = (pathname: string): Views => {
   if (pathname === "/signature") return Views.SIGNATURE;
+  if (pathname === "/market") return Views.MARKET;
   return Views.LABEL;
 };
