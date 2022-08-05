@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Artist, Label, League, Signature } from "./types";
+import { Artist, ArtistAndArtistMetrics, Label, League, Signature } from "./types";
 
 const BASE_URL = "http://localhost:3000";
 
@@ -7,6 +7,7 @@ interface UseApiOutput {
   getLabelAndLabelProfitsByLeagueId: (leagueId: number) => Promise<Label>;
   getSignaturesAndArtistsByLabelId: (labelId: number) => Promise<Signature[]>;
   getArtistAndArtistMetricsByArtistId: (artistId: number) => Promise<Artist>;
+  getAllArtistAndArtistMetrics: () => Promise<ArtistAndArtistMetrics[]>;
   getAllArtistIds: () => Promise<number[]>;
   getLeagues: () => Promise<League[]>;
 }
@@ -32,14 +33,17 @@ export const useApi = (): UseApiOutput => {
 
   const getArtistAndArtistMetricsByArtistId = async (artistId: number): Promise<Artist> => {
     const { data } = await axios.get<Artist>(`${BASE_URL}/artist/${artistId}?_embed=artist_metrics`);
-    console.log("ARTIST", data);
+    return data;
+  };
+
+  const getAllArtistAndArtistMetrics = async (): Promise<ArtistAndArtistMetrics[]> => {
+    const { data } = await axios.get<ArtistAndArtistMetrics[]>(`${BASE_URL}/artist?_embed=artist_metrics`);
     return data;
   };
 
   const getAllArtistIds = async (): Promise<number[]> => {
     const { data } = await axios.get<Artist[]>(`${BASE_URL}/artist`);
     const artistIds = data.map(artist => artist.id);
-    console.log("ARTIST ID ", artistIds);
     return artistIds;
   };
 
@@ -52,6 +56,7 @@ export const useApi = (): UseApiOutput => {
     getLabelAndLabelProfitsByLeagueId,
     getSignaturesAndArtistsByLabelId,
     getArtistAndArtistMetricsByArtistId,
+    getAllArtistAndArtistMetrics,
     getAllArtistIds,
     getLeagues,
   };
