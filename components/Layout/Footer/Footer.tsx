@@ -1,11 +1,9 @@
-import { useRouter } from "next/router";
 import { useApp } from "../../../context/useAppContext.hook";
 import { Views } from "../../../context/useBottomNavBar.hook";
 import { isViewActive } from "./utils/utils";
 
 export const Footer: React.FC = () => {
   const { currentView, onClickIconView } = useApp();
-  const { pathname } = useRouter();
   return (
     <footer>
       <div className="btm-nav">
